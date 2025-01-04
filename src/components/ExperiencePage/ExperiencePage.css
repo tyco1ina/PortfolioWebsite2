@@ -1,0 +1,13 @@
+.experience-page-content-div {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top: 27vh;
+
+    padding: 20px;
+
+    max-width: 800px;
+    min-width: 400px;
+  
+    text-align: left;
+  }
