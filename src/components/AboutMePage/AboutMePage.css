@@ -1,0 +1,26 @@
+.about-me-content-div {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top: 27vh;
+
+    padding: 20px;
+
+    max-width: 800px;
+    min-width: 400px;
+  
+    text-align: left;
+  }
+  
+  
+  #about-me-large {
+    position:relative;
+    font-weight: 500;
+  }
+  
+  #descriptor-p {
+    position:relative;
+    top: -30px;
+    left: 5px;
+    color:gray;
+  }
